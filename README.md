@@ -3,4 +3,5 @@
 Tutorials of the AMUSE course.
 
 - scalar_units.ipynb ✅
-- particles.ipynb 👨‍💻
+- particles.ipynb ✅
+- running_an_Nbody_code.ipynb 👨‍💻
